@@ -1,26 +1,25 @@
 {
   "list_names": [
     {
-      "id": 1,
-      "name": "tiến",
-      "age": 19,
+      "person": "person-1",
+      "id": "1",
+      "name": "Nguyễn Văn A",
+      "age": "10",
       "Address": "Hà Nội"
     },
     {
-      "id": "196",
-      "name": "Nguyễn MInh Hải"
-    },
-    {
-      "id": "3",
-      "name": "Nguyễn Thuỳ Linh",
+      "person": "person-2",
+      "id": "2",
+      "name": "Nguyễn Văn C",
       "age": "17",
       "Address": "Hà Nội"
     },
     {
-      "id": "234234",
-      "name": "Nguyễn Minh Duy",
+      "person": "person-5",
+      "id": "234",
+      "name": "Nguyên Văn E",
       "age": "14",
-      "Address": "Hà Nội"
+      "Address": "Đà Năng"
     }
   ]
 }
