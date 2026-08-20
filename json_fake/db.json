@@ -1,0 +1,26 @@
+{
+  "list_names": [
+    {
+      "id": 1,
+      "name": "tiến",
+      "age": 19,
+      "Address": "Hà Nội"
+    },
+    {
+      "id": "196",
+      "name": "Nguyễn MInh Hải"
+    },
+    {
+      "id": "3",
+      "name": "Nguyễn Thuỳ Linh",
+      "age": "17",
+      "Address": "Hà Nội"
+    },
+    {
+      "id": "234234",
+      "name": "Nguyễn Minh Duy",
+      "age": "14",
+      "Address": "Hà Nội"
+    }
+  ]
+}

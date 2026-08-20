@@ -1,0 +1,246 @@
+.div_title {
+  background-color: #375aa9;
+  display: flex;
+}
+
+.text_title1 {
+  margin: 0;
+
+  color: white;
+  font-size: 1.8vw;
+  margin: 18px 5px 5px 15%;
+
+}
+
+.div_text {
+  margin: 0 0 0 35%;
+}
+
+.text_title {
+  font-size: 3vw;
+  margin: 2px 2px 2px 2px;
+  color: #ffc536;
+
+
+}
+
+/* display sub_content */
+.div_sub_content {
+  display: flex;
+
+}
+
+/* img */
+.div_img {
+  width: 10%;
+  height: 50%;
+}
+
+.img {
+  width: 100%;
+}
+
+/* content */
+.div_content {
+  width: 100%;
+}
+
+/* content1 */
+.div_content1 {
+  width: 70%;
+}
+
+.content {
+  font-size: 1.7vw;
+
+}
+
+/* content2 */
+.div_content2 {
+  width: 30%;
+  height: 50%;
+  display: flex;
+  margin-left: 20%;
+}
+
+
+.div_content2_img {
+  width: 19%;
+
+}
+
+.content2_img {
+  width: 100%;
+  margin-top: 7px;
+}
+
+.content2_p {
+  font-size: 1.7vw;
+  margin: 25px 0px;
+}
+
+/* content3 */
+.div_content3 {
+  position: absolute;
+  top: 17%;
+  right: 0%;
+  background-color: #486ec5;
+  border-radius: 3px;
+}
+
+.content3_ul {
+
+  list-style: none;
+  padding: 2px;
+
+  margin: 0;
+  display: none;
+
+}
+
+.content3_ul li {
+  font-size: 19.9px;
+  color: white;
+}
+
+/*  <!-- content Facial Recognition --> */
+.div_head {
+  background-color: #e5e7eb;
+}
+
+/* Button */
+.div_button {
+  display: flex;
+  justify-content: center;
+  width: 100vw;
+  height: 78vh;
+  align-items: center;
+
+}
+
+/* Img */
+.div_head_img {
+  margin-left: 4.5%;
+  width: 91vw;
+  height: 75vh;
+  background-color: rgb(203, 204, 204);
+  display: none;
+  border-radius: 3px;
+  border: 1px solid #e5e7eb;
+
+
+
+}
+
+.head_img {
+  width: 90vw;
+  height: 73vh;
+  margin: 10px;
+  border-radius: 4px;
+  position: relative;
+
+
+}
+
+/* div facial recognition */
+.person {
+  position: absolute;
+  cursor: pointer;
+
+  /* chỉ để nhìn thấy vùng click khi test */
+  width: 50px;
+  height: 50px;
+  border: 2px solid black;
+}
+
+.person-1 {
+  width: 70px;
+  height: 50px;
+
+  left: 31.5%;
+  top: 20%;
+
+}
+
+.person-2 {
+  width: 50px;
+  height: 60px;
+
+  right: 27%;
+  top: 20%;
+}
+
+.person-3 {
+  width: 90px;
+  height: 100px;
+
+  right: 21%;
+  top: 21%;
+}
+
+.person-4 {
+  width: 100px;
+  height: 90px;
+
+  right: 39%;
+  top: 22%;
+}
+
+.person-5 {
+  width: 100px;
+  height: 120px;
+
+  left: 36.5%;
+  top: 21%;
+}
+
+.person-6 {
+  width: 140px;
+  height: 100px;
+
+  left: 18%;
+  top: 21%;
+}
+
+.person-7 {
+  width: 200px;
+  height: 180px;
+
+  left: 12%;
+  bottom: 37%;
+}
+
+.person-8 {
+  width: 200px;
+  height: 200px;
+
+  left: 47%;
+  bottom: 37%;
+}
+
+.person-9 {
+  width: 230px;
+  height: 180px;
+
+  right: 4%;
+  bottom: 39%;
+}
+
+
+/*  */
+
+.div_buttons {
+  justify-content: center;
+  display: flex;
+
+}
+
+.buttons {
+
+  width: 80px;
+  height: 40px;
+  font-size: 20px;
+  display: none;
+  border-radius: 5px;
+
+}
